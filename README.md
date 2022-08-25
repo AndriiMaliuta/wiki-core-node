@@ -1,5 +1,9 @@
 # wiki-core-node
 
+- Node HTTP
+- Pg (Postgres)
+- Proto
+
 Trying to code a primitive wiki site with pages/blogs/comments/dashboard (html/REST) to compare performance and some simple features in:
 - Java core/Quarkus Reactive
 - C# .NET
